@@ -1,5 +1,5 @@
 # React Portfolio
-[Launch React Portfolio](https://jaortisi6.github.io/Refined-Portfolio/)
+[Launch React Portfolio](https://jaortisi6.github.io/React-Portfolio/)
 
 # Technologies Used
 ```
